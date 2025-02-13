@@ -1,0 +1,20 @@
+{
+  "name": "playtubebackend",
+  "version": "1.0.0",
+  "description": "PlayTube is a clone of YouTube with BackEnd in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "MongoDB"
+  ],
+  "author": "Rushikesh Kshirsagar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
